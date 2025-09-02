@@ -3,7 +3,7 @@
 ## Overview
 This project is a course assignment for CHE213 (Chemical Engineering) under the guidance of Prof. Soumik Das. It involves designing and analyzing a distillation column for separating a methanol-water mixture using the McCabe-Thiele graphical method, incorporating a side stream withdrawal.
 
-**Author:** [Not specified in documents]  
+**Author:** Tushar Verma
 **Date:** Mar'24 - Apr'24  
 
 ## Aim
